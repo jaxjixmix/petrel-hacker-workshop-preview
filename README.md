@@ -12,3 +12,12 @@ Static main-menu workshop scene concept featuring The Hacker, generated with the
 - Image: `menu-hacker-network-nook.png`
 - Static after-hours network test nook; distinct from the Grinder workshop.
 - Dimensions: 1672 × 941.
+
+## Static character scene variants
+
+- `menu-hacker-network-nook-hands-down.png` — Hacker in the network nook, hands resting down at the laptop/table.
+- `menu-architect-design-office.png` — Architect in a reliability/design office with dependency maps.
+- `menu-consultant-client-review.png` — Consultant in a quiet client-review meeting room.
+- `menu-contractor-maintenance-bay.png` — Contractor in a server maintenance bay with tools.
+
+All are opaque landscape concept previews. They are hosted for review and are not integrated into the game yet.

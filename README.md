@@ -21,3 +21,7 @@ Static main-menu workshop scene concept featuring The Hacker, generated with the
 - `menu-contractor-maintenance-bay.png` — Contractor in a server maintenance bay with tools.
 
 All are opaque landscape concept previews. They are hosted for review and are not integrated into the game yet.
+
+### Consultant redo
+
+`menu-consultant-client-review.png` has been replaced with the revised illustrated client-review scene (1672 × 941). The previous draft remains in Git history.

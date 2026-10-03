@@ -6,3 +6,9 @@ Static main-menu workshop scene concept featuring The Hacker, generated with the
 - Dimensions: 1672 × 941
 - Use: concept preview; not yet integrated into the game.
 - Motion: none.
+
+## Alternate Hacker scene
+
+- Image: `menu-hacker-network-nook.png`
+- Static after-hours network test nook; distinct from the Grinder workshop.
+- Dimensions: 1672 × 941.

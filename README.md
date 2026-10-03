@@ -25,3 +25,8 @@ All are opaque landscape concept previews. They are hosted for review and are no
 ### Consultant redo
 
 `menu-consultant-client-review.png` has been replaced with the revised illustrated client-review scene (1672 × 941). The previous draft remains in Git history.
+
+## Latest layout revisions
+
+- `menu-consultant-client-review.png` — Consultant moved near center, with more negative space on the left; same client-review scene. The prior composition remains in Git history.
+- `menu-contractor-maintenance-bay-gaze-down.png` — Contractor gaze/head angled down toward the open service panel, not the viewer.
